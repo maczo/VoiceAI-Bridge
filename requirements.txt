@@ -1,0 +1,3 @@
+deepgram-sdk>=5.0.0
+requests
+pjsua2  # For SIP/RTP (Nixpacks installs PJSIP bindings)
